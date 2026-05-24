@@ -31,7 +31,7 @@ const Contact = () => {
             <div className='mt-3 flex flex-col gap-3 text-gray-600 text-sm leading-relaxed'>
               <div className='flex items-start gap-3'>
                 <span className='text-xl mt-0.5'>📍</span>
-                <p>54709 Willms Station, Suite 350<br />Washington, USA</p>
+                <p>54709 Willms Station, Sector 34<br />Chandigarh, India</p>
               </div>
               <div className='flex items-start gap-3'>
                 <span className='text-xl mt-0.5'>📞</span>
@@ -39,7 +39,7 @@ const Contact = () => {
               </div>
               <div className='flex items-start gap-3'>
                 <span className='text-xl mt-0.5'>✉️</span>
-                <p>greatstackdev@gmail.com</p>
+                <p>mediConnect@gmail.com</p>
               </div>
             </div>
           </div>
