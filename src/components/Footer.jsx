@@ -90,7 +90,7 @@ const Footer = () => {
           </p>
           <ul className='flex flex-col gap-0.5'>
             <li className='footer-link'>+1-212-456-7890</li>
-            <li className='footer-link'>greatstackdev@gmail.com</li>
+            <li className='footer-link'>mediConnect@gmail.com</li>
           </ul>
 
           {/* Mini badge */}
