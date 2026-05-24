@@ -32,7 +32,7 @@ const Navbar = () => {
           <img
             onClick={() => navigate('/')}
             className='w-36 cursor-pointer transition-opacity hover:opacity-80'
-            src={assets.MediLogo}
+            src={assets.MediLogo1}
             alt="MediConnect"
           />
 
